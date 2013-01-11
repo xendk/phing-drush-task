@@ -18,7 +18,7 @@ drush site-install --yes --locale=uk --site-name =${sitename} expert
     <param>expert</param>
   </drush> 
 
-More sample usages are provided in the tamplte build script at http://reload.github.com/phing-drupal-template/
+More sample usages are provided in the template build script at http://reload.github.com/phing-drupal-template/
   
 [1] http://www.phing.info/
 [2] http://jenkins-ci.org/
